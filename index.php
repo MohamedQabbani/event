@@ -58,11 +58,11 @@
                 nav.showMonths = 3;
                 nav.skipMonths = 3;
                 nav.selectMode = "week";
-//                nav.onTimeRangeSelected = function(args) {
-//                    dp.startDate = args.day;
-//                    dp.update();
-//                    loadEvents();
-//                };
+                nav.onTimeRangeSelected = function(args) {
+                    dp.startDate = args.day;
+                    dp.update();
+                    loadEvents();
+                };
                 nav.init();
                 
                 var dp = new DayPilot.Calendar("dp");
