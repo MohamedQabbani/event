@@ -1,6 +1,7 @@
 ﻿<!DOCTYPE html>
 <html>
 <head>
+<meta charset="UTF-8">
     <title>HTML5 Event Calendar</title>
 	<!-- demo stylesheet -->
     	<link type="text/css" rel="stylesheet" href="media/layout.css" />    
