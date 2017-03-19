@@ -22,8 +22,8 @@
         <div id="header">
 			<div class="bg-help">
 				<div class="inBox">
-					<h1 id="logo"><a href='http://code.daypilot.org/17910/html5-event-calendar-open-source'>HTML5 Event Calendar</a></h1>
-					<p id="claim"><a href="http://javascript.daypilot.org/">DayPilot for JavaScript</a> - AJAX Calendar/Scheduling Widgets for JavaScript/HTML5/jQuery</p>
+					<h1 id="logo"><a href='#'>حاضنة نور العطاء التطوعية</a></h1>
+					<p id="claim"><a href="#"></a></p>
 					<hr class="hidden" />
 				</div>
 			</div>
