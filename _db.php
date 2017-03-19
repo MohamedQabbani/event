@@ -2,7 +2,7 @@
 
 //$db_exists = file_exists("daypilot.sqlite");
 
-$db = new PDO('mysql:host=localhost;dbname=event', 'root', 'ochjGHCzit');
+$db = new PDO('mysql:host=localhost;dbname=event;charset=utf8', 'root', 'ochjGHCzit');
 $db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
 //if (!$db_exists) {
